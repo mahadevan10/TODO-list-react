@@ -4,6 +4,10 @@ A simple and interactive **Todo List application** built using **React**.
 This project helps users manage their daily tasks with an intuitive UI and seamless task handling.  
 
 ---
+## 📸 Screenshot
+
+![Todo List Screenshot](./Screenshot%202025-09-09%20113607.png)
+---
 
 ## 🚀 Features
 - ➕ Add new todos  
